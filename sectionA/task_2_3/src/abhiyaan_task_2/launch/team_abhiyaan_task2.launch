@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="abhiyaan_task_2" name="Node1" type="Node1" />
+    <node pkg="abhiyaan_task_2" name="Node2" type="Node2" />
+
+</launch>
+    
