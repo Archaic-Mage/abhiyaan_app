@@ -3,6 +3,6 @@ prefix=/home/mage/abhiyan_app/sectionA/task2/install
 Name: abhiyaan_task_3
 Description: Description of abhiyaan_task_3
 Version: 0.0.0
-Cflags: 
+Cflags: -I${prefix}/include
 Libs: -L${prefix}/lib 
 Requires: 
